@@ -15,7 +15,7 @@ Welcome to the PicturaVoice! This React Native application leverages the power o
 ## Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/PicturaVoice.git
+git clone https://github.com/NikhilKumarMahto/PicturaVoice.git
 
 cd PicturaVoice 
 
